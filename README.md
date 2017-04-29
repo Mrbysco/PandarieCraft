@@ -1,7 +1,7 @@
 # PandarieCraft #
 
 ## About ##
-PandarieCraft was an idea by Shikapantera that adds decorative blocks based on Pandaria Village from World of Warcraft.
+PandarieCraft is an idea by Shikapantera to add decorative blocks based on Pandaria Village from World of Warcraft.
 
 ## License ##
 * PandarieCraft is licensed under the MIT License
