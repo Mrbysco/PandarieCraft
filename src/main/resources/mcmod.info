@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pandariecraft",
+  "name": "PandarieCraft",
+  "description": "Adding Pandaria Village type decorative blocks to Minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Mrbysco", "Shikapantera", "Svennieke"],
+  "credits": "Shikapantera for the idea",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
